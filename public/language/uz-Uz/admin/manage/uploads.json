@@ -1,0 +1,11 @@
+{
+  "upload-file": "Faylni yuklash",
+  "filename": "Fayl nomi",
+  "usage": "Post foydalanish",
+  "orphaned": "Yetim",
+  "size/filecount": "O'lcham / fayl soni",
+  "confirm-delete": "Siz haqiqatan ham ushbu faylni o'chirib tashlamoqchimisiz?",
+  "filecount": "%1 fayl",
+  "new-folder": "Yangi jild",
+  "name-new-folder": "Yangi jild uchun nom kiriting"
+}

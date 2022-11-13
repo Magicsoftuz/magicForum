@@ -1,0 +1,12 @@
+{
+  "username-email": "Foydalanuvchi nomi / Elektron pochta",
+  "username": "Foydalanuvchi nomi",
+  "remember_me": "Meni eslaysizmi?",
+  "forgot_password": "Parolni unutdingizmi?",
+  "alternative_logins": "Muqobil loginlar",
+  "failed_login_attempt": "Kirish muvaffaqiyatsiz tugadi",
+  "login_successful": "Siz tizimga muvaffaqiyatli kirdingiz!",
+  "dont_have_account": "Hisobingiz yo'qmi?",
+  "logged-out-due-to-inactivity": "Siz harakatsizlik tufayli administrator boshqaruv panelidan chiqdingiz",
+  "caps-lock-enabled": "Caps Lock yoqilgan"
+}

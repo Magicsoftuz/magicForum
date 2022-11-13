@@ -1,0 +1,16 @@
+{
+  "custom-css": "Maxsus CSS/LESS",
+  "custom-css.description": "Bu yerga o'zingizning CSS/LESS deklaratsiyalaringizni kiriting, ular boshqa barcha uslublardan keyin qo'llaniladi.",
+  "custom-css.enable": "Maxsus CSS/LESSni yoqish",
+
+  "custom-js": "Maxsus Javascript",
+  "custom-js.description": "Bu yerga oʻz javascriptingizni kiriting. U sahifa toʻliq yuklangandan keyin bajariladi.",
+  "custom-js.enable": "Maxsus Javascriptni yoqish",
+
+  "custom-header": "Maxsus sarlavha",
+  "custom-header.description": "Bu yerga maxsus HTML-ni kiriting (masalan, Meta teglar va h.k.), u forumingiz belgilashning <code>&lt;head&gt;</code> boʻlimiga qoʻshiladi. Skript teglariga ruxsat berilgan. , lekin tavsiya etilmaydi, chunki <a href=\"#custom-js\" data-toggle=\"tab\">Maxsus Javascript</a> yorlig‘i mavjud.",
+  "custom-header.enable": "Maxsus sarlavhani yoqish",
+
+  "custom-css.livereload": "Jonli qayta yuklashni yoqish",
+  "custom-css.livereload.description": "Saqlash tugmasini bosganingizda hisobingiz ostidagi har bir qurilmadagi barcha seanslarni yangilashga majburlash uchun buni yoqing"
+}

@@ -1,0 +1,23 @@
+{
+  "category": "Kategoriya",
+  "subcategories": "Subcategories",
+  "new_topic_button": "Yangi mavzu",
+  "guest-login-post": "Xat yozish uchun tizimga kiring",
+  "no_topics": "<strong>Ushbu turkumda hech qanday mavzu yo'q.</strong><br />Nega bittasini joylashga urinmaysiz?",
+  "browsing": "ko'rib chiqish",
+  "no_replies": "Hech kim javob bermadi",
+  "no_new_posts": "Yangi xabarlar yo'q.",
+  "watch": "tomosha qilish",
+  "ignore": "e'tibor bermaslik",
+  "tomosha qilish": "tomosha qilish",
+  "not-watching": "Ko'rmayapman",
+  "ignoring": "e'tibor bermaslik",
+  "watching.description": "Mavzularni o'qilmagan va yaqinda ko'rsatish",
+  "not-watching.description": "O'qilmagan mavzularda ko'rsatilmasin, oxirgisida ko'rsatilsin",
+  "ignoring.description": "O'qilmagan va oxirgi mavzularni ko'rsatmang",
+  "watching.message": "Siz hozir ushbu turkum va barcha pastki turkumlardagi yangilanishlarni tomosha qilyapsiz",
+  "notwatching.message": "Siz ushbu turkum va barcha pastki kategoriyalardagi yangilanishlarni tomosha qilmayapsiz",
+  "ignoring.message": "Siz hozir ushbu turkum va barcha pastki kategoriyalardagi yangilanishlarni e'tiborsiz qoldirasiz",
+  "watched-categories": "Tomosha qilingan toifalar",
+  "x-more-categories": "yana %1 toifa"
+}

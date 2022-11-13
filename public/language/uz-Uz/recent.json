@@ -1,0 +1,19 @@
+{
+  "title": "Yaqinda",
+  "day": "Kun",
+  "week": "Hafta",
+  "month": "Oy",
+  "year": "Yil",
+  "alltime": "Hamma vaqt",
+  "no_recent_topics": "Oxirgi mavzular yo'q.",
+  "no_popular_topics": "Mashhur mavzular yo'q.",
+  "there-is-a-new-topic": "Yangi mavzu bor.",
+  "there-is-a-new-topic-and-a-new-post": "Yangi mavzu va yangi post bor.",
+  "there-is-a-new-topic-and-new-posts": "Yangi mavzu va %1 ta yangi xabar bor.",
+  "there-are-new-topics": "% 1 ta yangi mavzu bor.",
+  "there-are-new-topics-and-a-new-post": "%1 ta yangi mavzu va yangi post bor.",
+  "there-are-new-topics-and-new-posts": "% 1 ta yangi mavzu va% 2 ta yangi post bor.",
+  "there-is-a-new-post": "Yangi xabar bor.",
+  "there-are-new-posts": "% 1 ta yangi xabar bor.",
+  "click-here-to-reload": "Qayta yuklash uchun shu yerni bosing."
+}

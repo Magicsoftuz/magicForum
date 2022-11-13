@@ -1,0 +1,30 @@
+{
+  "available": "Mavjud vidjetlar",
+  "explanation": "Ochiladigan menyudan vidjetni tanlang va keyin uni shablonning chap tarafdagi vidjet maydoniga sudrab olib tashlang.",
+  "none-installed": "Hech qanday vidjet topilmadi! <a href=\"%1\">pluginlar</a> boshqaruv panelida asosiy vidjet plaginini faollashtiring.",
+  "clone-from": "Vidjetlarni klonlash",
+  "containers.available": "Mavjud konteynerlar",
+  "containers.explanation": "Har qanday faol vidjet ustiga sudrab olib tashlang",
+  "containers.none": "Yo'q",
+  "container.well": "Yaxshi",
+  "container.jumbotron": "Jumbotron",
+  "container.panel": "Panel",
+  "container.panel-header": "Panel sarlavhasi",
+  "container.panel-body": "Panel tanasi",
+  "container.alert": "Ogohlantirish",
+
+  "alert.confirm-delete": "Ushbu vidjetni oʻchirib tashlamoqchimisiz?",
+  "alert.updated": "Vidjetlar yangilandi",
+  "alert.update-success": "Vidjetlar muvaffaqiyatli yangilandi",
+  "alert.clone-success": "Vidjetlar muvaffaqiyatli klonlandi",
+
+  "error.select-clone": "Klonlash uchun sahifani tanlang",
+
+  "title": "Sarlavha",
+  "title.placeholder": "Sarlavha (faqat ba'zi konteynerlarda ko'rsatilgan)",
+  "container": "konteyner",
+  "container.placeholder": "Konteynerni sudrab olib tashlang yoki HTMLni shu yerga kiriting.",
+  "show-to-groups": "Guruhlarga ko'rsatish",
+  "hide-from-groups": "Guruhlardan yashirish",
+  "hide-on-mobile": "Mobil qurilmada yashirish"
+}

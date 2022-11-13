@@ -1,0 +1,12 @@
+{
+  "administrators": "Administratorlar",
+  "global-moderators": "Global Moderatorlar",
+  "moderators": "Moderatorlar",
+  "no-global-moderators": "Global Moderatorlar yo'q",
+  "no-sub-categories": "Quyi kategoriyalar yo'q",
+  "subcategories": "% 1 pastki kategoriyalar",
+  "no-moderators": "Moderatorlar yo'q",
+  "add-administrator": "Administrator qo'shish",
+  "add-global-moderator": "Global Moderator qo'shish",
+  "add-moderator": "Moderator qo'shish"
+}

@@ -1,0 +1,9 @@
+{
+  "loading": "Trikalar yuklanmoqda...",
+  "homepage": "Bosh sahifa",
+  "select-skin": "Tanlangan teri",
+  "current-skin": "Hozirgi teri",
+  "skin-updated": "Teri yangilangan",
+  "applied-success": "% 1 teri muvaffaqiyatli qo'llanildi",
+  "revert-success": "Teri asosiy ranglarga qaytdi"
+}

@@ -1,0 +1,22 @@
+{
+  "lead": "Dajest yetkazib berish statistikasi va vaqtlari roʻyxati quyida koʻrsatilgan.",
+  "disclaimer": "E-pochta texnologiyasining tabiatiga ko'ra, elektron pochta xabarlarini yetkazib berish kafolatlanmasligini unutmang. Ko'pgina o'zgaruvchilar qabul qiluvchi serveriga yuborilgan xat oxir-oqibat foydalanuvchining kirish qutisiga, jumladan, server obro'si, qora ro'yxatga kiritilgan IP manzillar kiradi. va DKIM/SPF/DMARC sozlanganmi yoki yo'qmi.",
+  "disclaimer-continued": "Muvaffaqiyatli yetkazib berish xabarning NodeBB tomonidan muvaffaqiyatli yuborilganini va qabul qiluvchi server tomonidan tan olinganligini bildiradi. Bu e-pochta pochta qutisiga tushganini anglatmaydi. Eng yaxshi natijaga erishish uchun uchinchi tomon elektron pochta xabarlarini yetkazib berish xizmatidan foydalanishni tavsiya qilamiz. masalan, <a href=\"https://sendgrid.com/why-sendgrid/\">SendGrid</a>.",
+
+  "user": "Foydalanuvchi",
+  "subscription": "Obuna turi",
+  "last-delivery": "So'nggi muvaffaqiyatli yetkazib berish",
+  "default": "Standart tizim",
+  "default-help": "<em>Standart tizim</em> foydalanuvchi dayjestlar uchun global forum sozlamalarini aniq bekor qilmaganligini bildiradi, bu hozirda: &quot;<strong>%1</strong>&quot;",
+  "resend": "Dajestni qayta yuborish",
+  "resend-all-confirm": "Ushbu dayjestni qo'lda bajarmoqchimisiz?",
+  "resent-single": "Qo'lda dayjestni qayta yuborish tugallandi",
+  "resent-day": "Kundalik dayjest resen",
+  "resent-week": "Resent haftalik dayjest",
+  "resent-biweek": "Ikki haftalik dayjest resen",
+  "resent-month": "Oylik dayjest reent",
+  "null": "<em>Hech qachon</em>",
+  "manual-run": "Dajestni qo'lda bajarish:",
+
+  "no-delivery-data": "Etkazib berish ma'lumotlari topilmadi"
+}

@@ -1,0 +1,13 @@
+{
+  "events": "Voqealar",
+  "no-events": "Hech qanday voqea yo'q",
+  "control-panel": "Voqealar boshqaruv paneli",
+  "delete-events": "Hodisalarni o'chirish",
+  "confirm-delete-all-events": "Ro'yxatga olingan barcha hodisalarni o'chirib tashlamoqchimisiz?",
+  "filters": "Filtrlar",
+  "filters-apply": "Filtrlarni qo'llash",
+  "filter-type": "Hodisa turi",
+  "filter-start": "Boshlanish sanasi",
+  "filter-end": "tugash sanasi",
+  "filter-perPage": "Har sahifada"
+}

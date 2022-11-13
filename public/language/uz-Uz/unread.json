@@ -1,0 +1,15 @@
+{
+  "title": "O'qilmagan",
+  "no_unread_topics": "O'qilmagan mavzular yo'q.",
+  "load_more": "Ko'proq yuklash",
+  "mark_as_read": "O'qilgan deb amalga oshirildi",
+  "selected": "tanlangan",
+  "all": "Hammasi ",
+  "all_categories": "Barcha joylar",
+  "topics_marked_as_read.success": "Mavzular o'qilgan deb yuzaga!",
+  "all-topics": "Barcha mavzular",
+  "new-topics": "Yangi mavzular",
+  "watched-topics": "Ko'rilgan mavzular",
+  "unreplied-topics": "Javob berilmagan mavzular",
+  "multiple-categories-selected": "Bir nechta qayd"
+}

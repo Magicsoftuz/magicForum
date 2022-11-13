@@ -1,0 +1,11 @@
+{
+	"alert.confirm-rebuild-and-restart": "NodeBB ni qayta qurib, qayta ishga tushirmoqchimisiz?",
+	"alert.confirm-restart": "NodeBB-ni qayta ishga tushirmoqchimisiz?",
+	
+	"acp-title": "% 1 | NodeBB boshqaruv paneli",
+	"settings-header-contents": "Tarkib",
+	"changes-saved": "Saqlangan o'zgarishlar",
+	"changes-saved-message": "NodeBB konfiguratsiyasiga kiritilgan o'zgartirishlaringiz saqlandi.",
+	"changes-not-saved": "O'zgarishlar saqlanmagan",
+	"changes-not-saved-message": "NodeBB o'zgartirishlaringizni saqlashda muammoga duch keldi. (%1)"
+	}

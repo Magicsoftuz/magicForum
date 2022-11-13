@@ -1,0 +1,19 @@
+{
+  "lead": "IP qora ro'yxatini shu yerda sozlang.",
+  "description": "Ba'zida foydalanuvchi hisobini taqiqlash to'sqinlik qilmaydi. Boshqa paytlarda forumga kirishni ma'lum bir IP yoki bir qator IP-lar bilan cheklash forumni himoya qilishning eng yaxshi usuli hisoblanadi. Bunday stsenariylarda siz ushbu qora ro'yxatga muammoli IP manzillarni yoki butun CIDR bloklarini qo'shing va ular yangi hisob qaydnomasiga kirish yoki ro'yxatdan o'tishdan to'sqinlik qiladi.",
+  "active-rules": "Faol qoidalar",
+  "validate": "Qora ro'yxatni tasdiqlash",
+  "apply": "Qora ro'yxatni qo'llash",
+  "hints": "Sintaksis maslahatlari",
+  "hint-1": "Har bir satr uchun bitta IP manzilni belgilang. IP bloklarini ular CIDR formatiga (masalan, <code>192.168.100.0/22</code>) amal qilgan holda qo‘shishingiz mumkin.",
+  "hint-2": "Izohlarni <code>#</code> belgisi bilan boshlovchi satrlar orqali kiritishingiz mumkin.",
+
+  "validate.x-valid": "<strong>%1</strong> dan <strong>%2</strong> qoida(lar) amal qiladi.",
+  "validate.x-invalid": "Quyidagi <strong>%1</strong> qoidalar yaroqsiz:",
+
+  "alerts.applied-success": "Qora ro'yxat qo'llaniladi",
+
+  "analytics.blacklist-hourly": "<strong>1-rasm</strong> &ndash; Qora roʻyxatning bir soatlik soni",
+  "analytics.blacklist-daily": "<strong>2-rasm</strong> &ndash; Qora roʻyxatning kunlik soni",
+  "ip-banned": "IP taqiqlangan"
+}

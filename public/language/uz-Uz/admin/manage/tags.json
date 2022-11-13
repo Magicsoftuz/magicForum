@@ -1,0 +1,18 @@
+{
+	"none": "Forumingizda hali tegli mavzular mavjud emas.",
+	"bg-color": "Fon rangi",
+	"text-color": "Matn rangi",
+	"description": "Teglarni bosish yoki sudrab tanlash, bir nechta teglarni tanlash uchun <code>CTRL</code> dan foydalaning.",
+	"create": "Teg yaratish",
+	"modify": "Teglarni o'zgartirish",
+	"rename": "Teglar nomini o'zgartirish",
+	"delete": "Tanlangan teglarni o'chirish",
+	"search": "Teglarni qidirish...",
+	"settings": "Teglar sozlamalari",
+	"name": "Teg nomi",
+	
+	"alerts.editing": "Teg(lar)ni tahrirlash",
+	"alerts.confirm-delete": "Tanlangan teglarni o'chirmoqchimisiz?",
+	"alerts.update-success": "Teg yangilandi!",
+	"reset-colors": "Ranglarni tiklash"
+	}

@@ -1,0 +1,9 @@
+{
+  "uploading-file": "Fayl yuklanmoqda...",
+  "select-file-to-upload": "Yuklash uchun faylni tanlang!",
+  "upload-success": "Fayl muvaffaqiyatli yuklandi!",
+  "maximum-file-size": "Maksimal %1 kb",
+  "no-uploads-found": "Hech qanday yuklama topilmadi",
+  "public-uploads-info": "Yuklashlar hamma uchun ochiq, barcha tashrif buyuruvchilar ularni ko'rishlari mumkin.",
+  "private-uploads-info": "Yuklashlar shaxsiy, faqat tizimga kirgan foydalanuvchilar ularni koʻra oladi."
+}

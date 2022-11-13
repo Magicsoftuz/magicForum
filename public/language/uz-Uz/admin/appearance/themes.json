@@ -1,0 +1,11 @@
+{
+  "checking-for-installed": "O'rnatilgan mavzular tekshirilmoqda...",
+  "homepage": "Bosh sahifa",
+  "select-theme": "Mavzuni tanlang",
+  "current-theme": "Joriy mavzu",
+  "no-themes": "Hech qanday o'rnatilgan mavzu topilmadi",
+  "revert-confirm": "Standart NodeBB mavzusini tiklamoqchimisiz?",
+  "theme-changed": "Mavzu o'zgartirildi",
+  "revert-success": "Siz NodeBB-ni birlamchi mavzuga muvaffaqiyatli qaytardingiz.",
+  "restart-to-activate": "Ushbu mavzuni to'liq faollashtirish uchun NodeBB ni qayta tiklang va qayta ishga tushiring."
+}

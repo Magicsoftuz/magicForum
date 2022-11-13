@@ -1,0 +1,20 @@
+{
+  "queue": "navbat",
+  "description": "Ro‘yxatdan o‘tish navbatida foydalanuvchilar yo‘q. <br> Bu funksiyani yoqish uchun <a href=\"%1\">Sozlamalar &rarr; Foydalanuvchi &rarr; Foydalanuvchini ro‘yxatdan o‘tkazish</a> bo‘limiga o‘ting va < ni o‘rnating. strong>Ro‘yxatdan o‘tish turi</strong>dan \"Administratorni tasdiqlash\"ga.",
+
+  "list.name": "Ism",
+  "list.email": "Elektron pochta",
+  "list.ip": "IP",
+  "list.time": "Vaqt",
+  "list.username-spam": "Chastotasi: % 1 Koʻrinadi: % 2 Ishonch: % 3",
+  "list.email-spam": "Chastotasi: %1 Koʻrindi: %2",
+  "list.ip-spam": "Chastotasi: % 1 Ko'rinadi: % 2",
+
+  "invitations": "taklifnomalar",
+  "invitations.description": "Quyida yuborilgan taklifnomalarning toʻliq roʻyxati keltirilgan. Roʻyxatni elektron pochta yoki foydalanuvchi nomi boʻyicha qidirish uchun ctrl-f tugmalaridan foydalaning. <br><br>Foydalanuvchi nomi elektron pochta xabarlarining oʻng tomonida koʻrsatiladi. taklifnomalarini qaytarib oldilar.",
+  "invitations.inviter-username": "Inviter foydalanuvchi nomi",
+  "invitations.invitee-email": "Taklif elektron pochtasi",
+  "invitations.invitee-username": "Taklif qiluvchi foydalanuvchi nomi (agar ro'yxatdan o'tgan bo'lsa)",
+
+  "invitations.confirm-delete": "Ushbu taklifnomani o'chirib tashlamoqchimisiz?"
+}

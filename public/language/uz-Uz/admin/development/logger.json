@@ -1,0 +1,12 @@
+{
+  "logger-settings": "Logger sozlamalari",
+  "description": "Tasdiqlash katakchalarini yoqish orqali siz terminalingizga jurnallarni olasiz. Agar yo'lni belgilasangiz, jurnallar o'rniga faylga saqlanadi. HTTP jurnali kim, qachon va qanday odamlar haqida statistik ma'lumotlarni yig'ish uchun foydalidir. forumingizga kiring. HTTP soʻrovlarini qayd qilishdan tashqari, biz socket.io hodisalarini ham qayd etishimiz mumkin. Socket.io jurnali redis-cli monitor bilan birgalikda NodeBB ichki maʼlumotlarini oʻrganishda juda foydali boʻlishi mumkin.",
+  "explanation": "O'z vaqtida kirishni yoqish yoki o'chirish uchun ro'yxatdan o'tish sozlamalarini tekshiring/belgisini olib tashlang. Qayta ishga tushirish shart emas.",
+  "enable-http": "HTTP jurnalini yoqish",
+  "enable-socket": "socket.io hodisalar jurnalini yoqish",
+  "file-path": "Jurnal fayliga yo'l",
+  "file-path-placeholder": "/path/to/log/file.log ::: terminalingizga kirish uchun bo'sh qoldiring",
+
+  "control-panel": "Logger boshqaruv paneli",
+  "update-settings": "Logger sozlamalarini yangilash"
+}

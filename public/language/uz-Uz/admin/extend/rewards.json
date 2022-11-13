@@ -1,0 +1,15 @@
+{
+	"rewards": "mukofotlar",
+	"condition-if-users": "Agar foydalanuvchi",
+	"condition-is": "Bu:",
+	"condition-then": "Keyin:",
+	"max-claims": "Mukofot talab qilinadigan vaqt miqdori",
+	"zero-infinite": "Cheksiz uchun 0 kiriting",
+	"delete": "O'chirish",
+	"enable": "Enable",
+	"disable": "O'chirish",
+	
+	"alert.delete-success": "Mukofot muvaffaqiyatli o'chirildi",
+	"alert.no-inputs-found": "Noqonuniy mukofot - hech qanday ma'lumot topilmadi!",
+	"alert.save-success": "Muvaffaqiyatli saqlangan mukofotlar"
+	}
